@@ -1,0 +1,8 @@
+{
+  "api": "1.0.0",
+  "name": "svg-to-components",
+  "main": "src/plugin/plugin.ts",
+  "ui": "src/ui/ui.ts",
+  "editorType": ["figma"],
+  "id": "1176503637623525773"
+}
