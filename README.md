@@ -1,6 +1,9 @@
 # Figma plugin — SVG to components
 
-### Run
+### Run in figma
+https://www.figma.com/community/plugin/1176503637623525773
+
+### Run locally
 
 ```sh
 npm install -g figplug
